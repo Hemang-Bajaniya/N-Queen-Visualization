@@ -20,3 +20,17 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/n-queen-visualizer.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd n-queen-visualizer
+
+3. (Optional) Install dependencies if using a package manager:
+   ```bash
+   npm install
+
+4. Open `index.html` in your web browser to view the project.
+
+## Demo
+You can view the live demo of the project by clicking the link below:
+[Click here to view the live demo](https://hemang-bajaniya.github.io/n-queen-visualizer)
