@@ -1,2 +1,22 @@
-# N-Queen-Visualization
-This is a visualizer for the N-Queens problem, where users can solve and visualize solutions to the classic N-Queens puzzle on a chessboard of customizable size. The project is built with HTML, Tailwind CSS, and JavaScript to provide an interactive and responsive interface.
+# N-Queen Visualizer
+
+## Description
+The **N-Queen Visualizer** is an interactive web application that allows users to visualize solutions to the classic N-Queens problem. This project provides a user-friendly interface to select the size of the chessboard and see the arrangement of queens that satisfy the problem's constraints.
+
+## Features
+- **Interactive Interface**: Easily select the value of N using a slider.
+- **Visual Representation**: View the placement of queens on a chessboard.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Hover Effects**: Enjoy smooth transitions and visual feedback.
+
+## Technologies Used
+- **HTML**: Structure of the web application.
+- **Tailwind CSS**: Styling framework for modern and responsive design.
+- **JavaScript**: Logic for solving the N-Queens problem and updating the UI.
+
+## Installation
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/n-queen-visualizer.git
