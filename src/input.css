@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .sidebar-icon {
+        @apply h-12 w-12 relative flex items-center rounded-md justify-center mt-2 mb-2 mx-auto bg-gray-700 text-green-500 hover:bg-green-600 hover:text-white transition-all ease-in hover:rounded-full cursor-pointer;
+    }
+
+    .btn-row {
+        @apply grid grid-cols-4 items-stretch place-items-center;
+    }
+
+    .btn {
+        @apply h-14 w-14 text-xl flex justify-center items-center text-white rounded-xl bg-blue-500 shadow-ms transition-all;
+    }
+
+    .btn-op {
+        @apply bg-green-500 hover:bg-green-600 transition-all;
+    }
+
+    .board-box {
+        @apply w-14 h-14 grid place-content-center text-lg;
+    }
+
+    .even-row {
+        @apply odd:bg-[#f2f2f2] even:bg-[#b2b2b2];
+    }
+
+    .odd-row {
+        @apply odd:bg-[#b2b2b2] even:bg-[#f2f2f2];
+    }
+}
