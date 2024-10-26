@@ -33,4 +33,4 @@ To run this project locally:
 
 ## Demo
 You can view the live demo of the project by clicking the link below:
-[Click here to view the live demo](https://hemang-bajaniya.github.io/n-queen-visualizer)
+[Click here to view the live demo](https://hemang-bajaniya.github.io/N-Queen-Visualization/)
